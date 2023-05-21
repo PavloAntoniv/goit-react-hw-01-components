@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://i.pinimg.com/564x/e2/b1/59/e2b159e10d262d708e09e8af00e220fe.jpg",
+    "name": "V",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/db/26/33/db2633fea048c0530e3350e1a8ed4e8f.jpg",
+    "name": "Meredith",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/d6/96/88/d69688a7f9e9020ca1476e2a47798ff9.jpg",
+    "name": "Panam",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/97/2b/84/972b842bbf91b13868f35912c9043f79.jpg",
+    "name": "Judy",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://i.pinimg.com/564x/12/93/90/129390b0da3239a4e7511fa5a0ac5038.jpg",
+    "name": "Jeckie",
+    "isOnline": false,
+    "id": 1284
+  }
+]

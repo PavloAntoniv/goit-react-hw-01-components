@@ -1,0 +1,43 @@
+/* @import-normalize; bring in normalize.css styles */
+
+body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(
+    -45deg,
+    #688701,
+    #010744,
+    hsla(0, 0%, 0%, 0.965),
+    #443c01,
+    #01875f
+  );
+  background-size: 400% 400%;
+  animation: gradient 10s ease infinite;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+img {
+  display: block;
+}
